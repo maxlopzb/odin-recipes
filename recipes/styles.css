@@ -1,0 +1,22 @@
+.title, .desc {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.title {
+    background-color: lightgray;
+}
+
+.desc {
+    font-size: 18px;
+}
+
+#img {
+    width: 450px;
+    height: auto;
+}
+
+.list {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkblue;
+}
